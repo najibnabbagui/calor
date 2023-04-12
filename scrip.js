@@ -10,7 +10,7 @@ $calculatebutton.addEventListener('click', calculateResult)
 
 function clearResult() {
     result = ""
-    $input.value = "5"
+    $input.value = "0"
 }
 
 $numSigns.forEach(($numSigns)=>{
